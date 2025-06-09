@@ -634,7 +634,7 @@ animation = &"Idle"
 shape = SubResource("CapsuleShape2D_lxlsd")
 
 [node name="Camera2D" type="Camera2D" parent="."]
-zoom = Vector2(2.5, 2.5)
+zoom = Vector2(3, 3)
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 libraries = {
